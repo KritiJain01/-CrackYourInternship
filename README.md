@@ -2,6 +2,6 @@ Each day is coded into a class containing the problem number, tag and difficulty
 
 Number of Questions Done Every Day:
 
-Day 1 - 2 Questions
-Day 2 - 7 Questions
-Day 3 - 11 Questions
+1. Day 1 - 2 Questions
+2. Day 2 - 7 Questions
+3. Day 3 - 11 Questions
