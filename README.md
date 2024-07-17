@@ -8,3 +8,5 @@ Number of Questions Done Every Day:
    > Easy & Medium Level questions on LINKED LISTS
 3. Day 3 - 11 Questions
    > Easy & Medium Level questions on STACK & QUEUES, ARRAYS and MATHEMATICS IN DSA
+4. Day 4 - 10 Questions
+   > Easy & Medium Level questions on ARRAYS, STRINGS and TREES
